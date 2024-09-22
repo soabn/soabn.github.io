@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://soabn.github.io/lxR/sitemap.lxR.gz
